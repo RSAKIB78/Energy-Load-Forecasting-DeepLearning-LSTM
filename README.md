@@ -10,10 +10,7 @@ The project makes use of training and evaluating machine learning models using P
 ## Project Structure
 
 - `main.ipynb`: Jupyter Notebook containing the code for data preprocessing, model training, and evaluation.
-- `dataset.csv`: The main dataset used for training and testing the models.
-- `test_dataframes.xlsx`: Excel file containing test data.
-- `train_dataframes.xlsx`: Excel file containing training data.
-- `weekly pre-dispatch forecast.csv`: Additional dataset for forecasting.
+- `continuous dataset.csv`: The main dataset used for training and testing the models.
 - `LICENSE`: MIT License for the project.
 - `README.md`: This file.
 
