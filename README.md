@@ -29,10 +29,20 @@ The project makes use of training and evaluating machine learning models using P
 
 ## Project Structure
 
+Files included in the project:
+
 - `main.ipynb`: Jupyter Notebook containing the code for data preprocessing, model training, and evaluation.
 - `continuous dataset.csv`: The main dataset used for training and testing the models.
 - `LICENSE`: MIT License for the project.
 - `README.md`: This file.
+
+Project Outline:
+
+- Data Ingestion
+- Data Exploration
+- Feature Selection
+- Modeling
+- Model Evaluation
 
 ## Dependencies
 
