@@ -31,17 +31,18 @@ You can install the required libraries using pip:
 
 ```sh
 pip install pandas numpy scikit-learn tensorflow matplotlib
+```
 
-
-Usage
+# Usage
 Open the main.ipynb file in Jupyter Notebook or JupyterLab.
 Run the cells sequentially to preprocess the data, train the models, and evaluate their performance.
+
 Models Used
-RandomForestRegressor
-Lasso
 LSTM (Long Short-Term Memory)
-License
+
+
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Author
+# Author
 M S Sakib Rahman
