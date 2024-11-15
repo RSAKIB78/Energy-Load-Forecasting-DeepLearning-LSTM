@@ -44,5 +44,6 @@ LSTM (Long Short-Term Memory)
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-# Author
-M S Sakib Rahman
+# Authors
+- M S Sakib Rahman
+- Aviel Jailal
