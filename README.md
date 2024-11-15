@@ -2,6 +2,26 @@
 
 This project simulates a scenario to demostrate how energy providers can use predictive modeling to forecast short-term load demand using historical consumption data.
 
+# Data Dictionary
+
+- nat_demand: National electricity load
+- T2M: Temperature at 2 meters
+- QV2M: Relative humidity at 2 meters
+- TQL: Liquid precipitation
+- W2M: Wind speed at 2 meters
+
+And after the underscore is the city
+
+- toc: Tocumen, Panama city
+- san: Santiago city
+- dav: David city
+
+The rest of variables:
+
+- Holiday_ID: Unique identification number integer
+- holiday: Holiday binary indicator (1=holiday, 0=regular day)
+- school: School period binary indicator (1=school, 0=vacations)
+
 
 # Machine Learning Model Training and Evaluation
 
